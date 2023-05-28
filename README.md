@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun
 - 👀 I’m interested in python and it's vast domain possibilities.
-- 🌱 I’m currently learning MongoDB anf flask
+- 🌱 I’m currently learning React and flask
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me arjun1.official@gmail.com 
 
